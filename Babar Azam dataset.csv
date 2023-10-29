@@ -1,0 +1,31 @@
+Venue city,Ground,Opposite team,Pitch,Weather,4s in last five matches range,6s in last five range,Score range,Score in last five matches range,Avg in last five matches range
+Ahmedabad,Narendra Modi Stadium,India,Flat pitch,Sunny,poor 4s avg,poor 6s avg,poor runs,poor score,poor score avg
+Hyderabad,Rajiv Gandhi international stadium,Sri lanka,Flat pitch,Windy,poor 4s avg,good 6s avg,poor runs,Good score,poor score avg
+Hyderabad,Rajiv Gandhi international stadium,Netherland,Flat pitch,Windy,good 4s avg,Excellent 6s avg,poor runs,Good score,Good score avg
+Colombo,R.Premadasa stadium,Sri lanka,Grass pitch,Overcast,poor 4s avg,Excellent 6s avg,poor runs,Good score,Good score avg
+Colombo,R.Premadasa stadium,India,Grass pitch,Overcast,good 4s avg,Excellent 6s avg,poor runs,Good score,Good score avg
+Lahore ,Gaddafi stadium,Bangladesh,Flat pitch,Sunny,good 4s avg,Excellent 6s avg,Good runs,Good score,Good score avg
+Multan,Multan cricket stadium,Nepal,Flat pitch,Sunny,poor 4s avg,poor 6s avg,Excellent runs,Good score,poor score avg
+Colombo,R.Premadasa stadium,Afganistan,Grass pitch,Rainy,poor 4s avg,poor 6s avg,Good runs,Good score,poor score avg
+Hambantota,Mahinda Rajapaksa international cricket stadium,Afganistan,Grass pitch,Rainy,poor 4s avg,poor 6s avg,poor runs,Good score,poor score avg
+Hambantota,Mahinda Rajapaksa international cricket stadium,Afganistan,Grass pitch,Rainy,good 4s avg,good 6s avg,poor runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Sunny,good 4s avg,good 6s avg,poor runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Sunny,poor 4s avg,good 6s avg,Excellent runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Sunny,good 4s avg,good 6s avg,Good runs,Good score,Good score avg
+Rawalpindi,Rawalpindi cricket stadium,New zealand,Flat pitch,Overcast,good 4s avg,Excellent 6s avg,Good runs,Good score,Good score avg
+Rawalpindi,Rawalpindi cricket stadium,New zealand,Flat pitch,Overcast,good 4s avg,good 6s avg,poor runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Overcast,good 4s avg,Excellent 6s avg,poor runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Rainy,good 4s avg,good 6s avg,Good runs,Good score,Good score avg
+Karachi,National stadium,New zealand,Flat pitch,Rainy,good 4s avg,good 6s avg,Good runs,Good score,Good score avg
+Rotterdam,Hazelaarweg,Netherland,Grass pitch,Overcast,good 4s avg,poor 6s avg,Good runs,Good score,Good score avg
+Rotterdam,Hazelaarweg,Netherland,Grass pitch,Overcast,good 4s avg,poor 6s avg,Good runs,Excellent score,Good score avg
+Rotterdam,Hazelaarweg,Netherland,Grass pitch,Overcast,good 4s avg,poor 6s avg,Good runs,Excellent score,Excellent score avg
+Multan,Multan cricket stadium,West Indies,Flat pitch,Sunny,Excellent 4s avg,poor 6s avg,poor runs,Excellent score,Excellent score avg
+Multan,Multan cricket stadium,West Indies,Flat pitch,Sunny,Excellent 4s avg,Excellent 6s avg,Good runs,Excellent score,Excellent score avg
+Multan,Multan cricket stadium,West Indies,Flat pitch,Sunny,Excellent 4s avg,Excellent 6s avg,Good runs,Excellent score,Excellent score avg
+Lahore ,Gaddafi stadium,Australia,Flat pitch,Sunny,good 4s avg,Excellent 6s avg,Good runs,Good score,Good score avg
+Lahore ,Gaddafi stadium,Australia,Flat pitch,Sunny,good 4s avg,good 6s avg,Excellent runs,Good score,Good score avg
+Lahore ,Gaddafi stadium,Australia,Flat pitch,Sunny,good 4s avg,Excellent 6s avg,Good runs,Good score,Good score avg
+Birmingham,Edgbaston,England,Grass pitch,Sunny,good 4s avg,good 6s avg,Excellent runs,Good score,Good score avg
+Lords,Lord's cricket stadium,England,Grass pitch,Sunny,Excellent 4s avg,Excellent 6s avg,poor runs,Good score,Good score avg
+Cardiff,Sophia Gardens,England,Grass pitch,Sunny,Excellent 4s avg,Excellent 6s avg,poor runs,Excellent score,Excellent score avg
